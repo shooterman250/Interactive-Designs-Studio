@@ -1,0 +1,8 @@
+﻿
+> nextn@0.1.0 build
+> next build
+
+  Skipping creating a lockfile at C:\Users\troyd\Downloads\Interactive Designs Studio\studio-master\.next\lock because we're using WASM bindings
+Ôû▓ Next.js 16.1.6 (Turbopack)
+
+  Creating an optimized production build ...
